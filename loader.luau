@@ -3,6 +3,7 @@ writefile("OBlockKey.txt", script_key)
 
 local loader = {
     [16472538603] = '018427100ab0cd97e545cd6ca73f85ab.lua';
+    [18642421777] = '018427100ab0cd97e545cd6ca73f85ab.lua';
 }
 
 if not loader[game.PlaceId] then
